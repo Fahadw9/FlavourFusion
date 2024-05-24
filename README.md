@@ -2,12 +2,12 @@
 
 FlavorFusion is a SwiftUI-based iOS app that provides users with a variety of meal recommendations fetched from an online database. Users can explore different meals, view their details, and discover new recipes.
 
-![Screenshot 1](Screenshots/screenshot1.png)
-![Screenshot 2](Screenshots/screenshot2.png)
-![Screenshot 3](Screenshots/screenshot3.png)
-![Screenshot 4](Screenshots/screenshot4.png)
-![Screenshot 5](Screenshots/screenshot5.png)
-![Screenshot 6](Screenshots/screenshot6.png)
+<img src="Screenshots/screenshot1.png" alt="Screenshot 1" width="200">
+<img src="Screenshots/screenshot2.png" alt="Screenshot 2" width="200">
+<img src="Screenshots/screenshot3.png" alt="Screenshot 3" width="200">
+<img src="Screenshots/screenshot4.png" alt="Screenshot 4" width="200">
+<img src="Screenshots/screenshot5.png" alt="Screenshot 5" width="200">
+<img src="Screenshots/screenshot6.png" alt="Screenshot 6" width="200">
 
 ## Features
 
