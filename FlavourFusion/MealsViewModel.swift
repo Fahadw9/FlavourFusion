@@ -21,7 +21,7 @@ class MealsViewModel: ObservableObject {
         
         let group = DispatchGroup()
         
-        for _ in 0..<20 {
+        for _ in 0..<10 {
             group.enter()
             
             URLSession.shared.dataTask(with: url) { data, _, error in
